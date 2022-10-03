@@ -1,2 +1,2 @@
 # braincourt.github.io
-Github page for braincourt organization
+Github page for braincourt.github.io
